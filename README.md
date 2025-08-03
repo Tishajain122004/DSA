@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tishajain122004/DSA/tree/master/0001-two-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Tishajain122004/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/Tishajain122004/DSA/tree/master/0204-count-primes) |
 ## Math
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Tishajain122004/DSA/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Tishajain122004/DSA/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Tishajain122004/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
