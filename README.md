@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tishajain122004/DSA/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Tishajain122004/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Tishajain122004/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Tishajain122004/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/Tishajain122004/DSA/tree/master/0204-count-primes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tishajain122004/DSA/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tishajain122004/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Tishajain122004/DSA/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Tishajain122004/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
