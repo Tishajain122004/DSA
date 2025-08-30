@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Tishajain122004/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tishajain122004/DSA/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Tishajain122004/DSA/tree/master/0204-count-primes) |
+| [1013-fibonacci-number](https://github.com/Tishajain122004/DSA/tree/master/1013-fibonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tishajain122004/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tishajain122004/DSA/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/Tishajain122004/DSA/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tishajain122004/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Tishajain122004/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Tishajain122004/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
