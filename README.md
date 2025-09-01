@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tishajain122004/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Tishajain122004/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Tishajain122004/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Tishajain122004/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Tishajain122004/DSA/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Tishajain122004/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tishajain122004/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Tishajain122004/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Tishajain122004/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tishajain122004/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Tishajain122004/DSA/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Tishajain122004/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
