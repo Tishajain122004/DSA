@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Tishajain122004/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Tishajain122004/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Tishajain122004/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Tishajain122004/DSA/tree/master/0567-permutation-in-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tishajain122004/DSA/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/Tishajain122004/DSA/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/Tishajain122004/DSA/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
@@ -125,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Tishajain122004/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Tishajain122004/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tishajain122004/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Tishajain122004/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
