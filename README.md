@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Tishajain122004/DSA/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/Tishajain122004/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/Tishajain122004/DSA/tree/master/1390-four-divisors) |
+| [1975-maximum-matrix-sum](https://github.com/Tishajain122004/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2662-check-knight-tour-configuration](https://github.com/Tishajain122004/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tishajain122004/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Tishajain122004/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tishajain122004/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0840-magic-squares-in-grid](https://github.com/Tishajain122004/DSA/tree/master/0840-magic-squares-in-grid) |
+| [1975-maximum-matrix-sum](https://github.com/Tishajain122004/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2662-check-knight-tour-configuration](https://github.com/Tishajain122004/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tishajain122004/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Tishajain122004/DSA/tree/master/0901-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/Tishajain122004/DSA/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
