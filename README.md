@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Tishajain122004/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Tishajain122004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Tishajain122004/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tishajain122004/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Tishajain122004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Tishajain122004/DSA/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/Tishajain122004/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Tishajain122004/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Tishajain122004/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Tishajain122004/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tishajain122004/DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Tishajain122004/DSA/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tishajain122004/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Tishajain122004/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tishajain122004/DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Tishajain122004/DSA/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
