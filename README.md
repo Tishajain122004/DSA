@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Tishajain122004/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Tishajain122004/DSA/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Tishajain122004/DSA/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Tishajain122004/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tishajain122004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Tishajain122004/DSA/tree/master/0567-permutation-in-string) |
 | [0840-magic-squares-in-grid](https://github.com/Tishajain122004/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Tishajain122004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Tishajain122004/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tishajain122004/DSA/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/Tishajain122004/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tishajain122004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Tishajain122004/DSA/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/Tishajain122004/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Tishajain122004/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tishajain122004/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Recursion
 |  |
