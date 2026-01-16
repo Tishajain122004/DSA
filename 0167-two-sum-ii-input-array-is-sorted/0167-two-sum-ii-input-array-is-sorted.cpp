@@ -6,16 +6,18 @@ public:
         int left = 0;
         int right = n - 1; 
 
-        while(left <= right){
-            if(nums[left] + nums[right] == target){
+        while(left < right){
+
+            int currSum = nums[left] + nums[right];
+            if(currSum == target){
                 ans.push_back(left + 1);
                 ans.push_back(right + 1);
                 break;
             }
-            if(nums[left] + nums[right] > target){
+            else if(currSum > target){
                 right--;
             }
-            if(nums[left] + nums[right] < target){
+            if(currSum < target){
                 left++;
             }
         }
