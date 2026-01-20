@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Tishajain122004/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2662-check-knight-tour-configuration](https://github.com/Tishajain122004/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tishajain122004/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Tishajain122004/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Math
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tishajain122004/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Tishajain122004/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tishajain122004/DSA/tree/master/0287-find-the-duplicate-number) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Tishajain122004/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
