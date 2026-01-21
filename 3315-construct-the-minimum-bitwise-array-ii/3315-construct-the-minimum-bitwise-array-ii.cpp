@@ -8,8 +8,8 @@ public:
                 ans[i] = -1;
                 continue;
             }
-            const int total_bits = sizeof(nums[i]) * 8;
-            for(int j=0; j<total_bits; ++j){
+            // const int total_bits = sizeof(nums[i]) * 8;
+            for(int j=0; j<32; ++j){
                  if(((nums[i] >> j) & 1) == 0){
                     ans[i] = nums[i] ^ (1 << (j - 1));
                     break;
