@@ -12,7 +12,6 @@ public:
             s++;
             e--;
         }
-
         s =0;
         e = k -1;
 
@@ -29,9 +28,5 @@ public:
             s++;
             e--;
         } 
-        // reverse(nums.begin(), nums.end());
-
-        // reverse(nums.begin(), nums.begin() + k);
-        // reverse(nums.begin() + k, nums.end()); 
     }
 };
