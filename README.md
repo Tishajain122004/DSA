@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Tishajain122004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Tishajain122004/DSA/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/Tishajain122004/DSA/tree/master/0840-magic-squares-in-grid) |
+| [1200-minimum-absolute-difference](https://github.com/Tishajain122004/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Tishajain122004/DSA/tree/master/1390-four-divisors) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tishajain122004/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Tishajain122004/DSA/tree/master/1975-maximum-matrix-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Tishajain122004/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Tishajain122004/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Tishajain122004/DSA/tree/master/0242-valid-anagram) |
+| [1200-minimum-absolute-difference](https://github.com/Tishajain122004/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tishajain122004/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tishajain122004/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
