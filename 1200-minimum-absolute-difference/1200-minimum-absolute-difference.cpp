@@ -25,8 +25,6 @@ public:
         //     min_diff = min(diff, min_diff); 
         // }
 
-
-
         // for(int i=0; i<nums.size() - 1; i++){
         //     int other_diff = nums[i+1] - nums[i];
         //     if(min_diff == other_diff){
