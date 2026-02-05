@@ -7,10 +7,6 @@ public:
             if(nums[i]==0){
                 result[i] = nums[i];
             }
-            else if(nums[i] > 0){
-                int steps = (i + nums[i]) % n; 
-                result[i] = nums[steps];
-            }
             else{
                 int steps = (i + nums[i]%n + n) % n; 
                 result[i] = nums[steps];
