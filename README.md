@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Tishajain122004/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Tishajain122004/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Tishajain122004/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/Tishajain122004/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tishajain122004/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3637-trionic-array-i](https://github.com/Tishajain122004/DSA/tree/master/3637-trionic-array-i) |
 ## Math
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tishajain122004/DSA/tree/master/0054-spiral-matrix) |
 | [2662-check-knight-tour-configuration](https://github.com/Tishajain122004/DSA/tree/master/2662-check-knight-tour-configuration) |
+| [3379-transformed-array](https://github.com/Tishajain122004/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tishajain122004/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
