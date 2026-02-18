@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tishajain122004/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Tishajain122004/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tishajain122004/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Tishajain122004/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Tishajain122004/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Tishajain122004/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Dynamic Programming
