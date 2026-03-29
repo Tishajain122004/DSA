@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tishajain122004/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Tishajain122004/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Tishajain122004/DSA/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/Tishajain122004/DSA/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Tishajain122004/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Tishajain122004/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tishajain122004/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Tishajain122004/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tishajain122004/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Tishajain122004/DSA/tree/master/0525-contiguous-array) |
+| [0539-minimum-time-difference](https://github.com/Tishajain122004/DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Tishajain122004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tishajain122004/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Tishajain122004/DSA/tree/master/0792-binary-search) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tishajain122004/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Tishajain122004/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Tishajain122004/DSA/tree/master/0204-count-primes) |
+| [0539-minimum-time-difference](https://github.com/Tishajain122004/DSA/tree/master/0539-minimum-time-difference) |
 | [0840-magic-squares-in-grid](https://github.com/Tishajain122004/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Tishajain122004/DSA/tree/master/1013-fibonacci-number) |
 | [1390-four-divisors](https://github.com/Tishajain122004/DSA/tree/master/1390-four-divisors) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Tishajain122004/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Tishajain122004/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Tishajain122004/DSA/tree/master/0242-valid-anagram) |
+| [0539-minimum-time-difference](https://github.com/Tishajain122004/DSA/tree/master/0539-minimum-time-difference) |
 | [1200-minimum-absolute-difference](https://github.com/Tishajain122004/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tishajain122004/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tishajain122004/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
