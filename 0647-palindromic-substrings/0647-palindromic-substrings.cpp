@@ -1,8 +1,8 @@
 class Solution {
 public:
-    bool checkPalindrome(string& sub){
+    bool checkPalindrome(string& sub, int i, int j){
         int n = sub.length(); 
-        int i=0, j=n-1; 
+        // int i=0, j=n-1; 
         if(sub.length() == 1){
             return true; 
         }
@@ -21,9 +21,9 @@ public:
 
         for(int i=0; i<n; i++){
             for(int j=i; j<n; j++){
-                int len = j - i+1; 
-                string sub = s.substr(i, len); 
-                if(checkPalindrome(sub)){
+                // int len = j - i+1; 
+                // string sub = s.substr(i, len); 
+                if(checkPalindrome(s, i, j)){
                     palCount++; 
                 }
             }
