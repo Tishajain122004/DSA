@@ -2,7 +2,7 @@ class Solution {
 public:
     string findLongestWord(string s, vector<string>& dict) {
 
-        int n = dict.size(); 
+    int n = dict.size(); 
     string ans = "";
     for(int w=0; w<n; w++){
         string word = dict[w]; 
@@ -16,12 +16,12 @@ public:
             }
         }
         if(j == word.length()){
-           if(word.length() > ans.length()){
+           if(word.length() > ans.length() || word.length() == ans.length() && word < ans){
                ans = word; 
            }
-           if(word.length() == ans.length() && word < ans){
-               ans = word; 
-           }
+        //    if(word.length() == ans.length() && word < ans){
+        //        ans = word; 
+        //    }
         }
     }
     
