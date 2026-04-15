@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Tishajain122004/DSA/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tishajain122004/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tishajain122004/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tishajain122004/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tishajain122004/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Tishajain122004/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tishajain122004/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tishajain122004/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2662-check-knight-tour-configuration](https://github.com/Tishajain122004/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tishajain122004/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Tishajain122004/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
