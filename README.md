@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Tishajain122004/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tishajain122004/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Tishajain122004/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Tishajain122004/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tishajain122004/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Tishajain122004/DSA/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Tishajain122004/DSA/tree/master/0496-next-greater-element-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tishajain122004/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Tishajain122004/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tishajain122004/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Tishajain122004/DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Tishajain122004/DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Tishajain122004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tishajain122004/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Tishajain122004/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Tishajain122004/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Tishajain122004/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tishajain122004/DSA/tree/master/0242-valid-anagram) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tishajain122004/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/Tishajain122004/DSA/tree/master/0539-minimum-time-difference) |
