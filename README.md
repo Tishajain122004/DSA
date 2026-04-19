@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tishajain122004/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tishajain122004/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Tishajain122004/DSA/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Tishajain122004/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tishajain122004/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Tishajain122004/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Array
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Tishajain122004/DSA/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Tishajain122004/DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Tishajain122004/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Tishajain122004/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tishajain122004/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Tishajain122004/DSA/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/Tishajain122004/DSA/tree/master/0840-magic-squares-in-grid) |
