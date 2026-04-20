@@ -2,22 +2,18 @@ class Solution {
 public:
     vector<int> decrypt(vector<int>& nums, int k) {
         int n = nums.size(); 
+        vector<int> ans(n, 0); 
 
         if(k==0){
-            for(int i=0; i<n; i++){
-                nums[i] = 0; 
-            }
+            // for(int i=0; i<n; i++){
+            //     nums[i] = 0; 
+            // }
+            return ans; 
+
         }
         else if(k>0){
-            // int sum =0; 
-            // for(int i=0; i<n; i++){
-            //     sum += nums[i]; 
-            // }
-
-            // for(int i=0; i<n; i++){
-            //     nums[i] = sum - nums[i]; 
-            // }
-            vector<int> ans(n, 0); 
+            
+            // vector<int> ans(n, 0); 
             for(int i=0; i<n; i++){
                 int tmp_sum = 0; 
                 for(int step = 1; step<=k; step++){
@@ -29,7 +25,7 @@ public:
             return ans; 
         }
         else{
-            vector<int> ans(n, 0);
+            // vector<int> ans(n, 0);
             int prev_idx; 
             for(int i =0; i<n; i++){
             
@@ -43,6 +39,6 @@ public:
             }
             return ans; 
         }
-        return nums; 
+        return ans; 
     }
 };
