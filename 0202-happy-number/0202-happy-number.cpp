@@ -17,7 +17,6 @@ public:
             return true; 
         }
         int sum = 0; 
-        int pro = 1; 
         while(n > 0){
             int digit = n % 10; 
             sum += digit * digit; 
@@ -33,9 +32,6 @@ public:
 
     bool isHappy(int n) {
         unordered_set<int>s;
-        return checkHappy(n, s);
-
-        
-
+        return checkHappy(n, s); 
     }
 };
