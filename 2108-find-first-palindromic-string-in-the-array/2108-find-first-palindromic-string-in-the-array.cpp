@@ -14,14 +14,12 @@ public:
         return true; 
     }
     string firstPalindrome(vector<string>& words) {
-        string ans = ""; 
         for(string str : words){
             if(checkPal(str)){
-                ans = str; 
-                return ans;
+                return str;
             } 
         }
-        return ans; 
+        return ""; 
         
     }
 };
