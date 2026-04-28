@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tishajain122004/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Tishajain122004/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Tishajain122004/DSA/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Tishajain122004/DSA/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tishajain122004/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/Tishajain122004/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Tishajain122004/DSA/tree/master/0647-palindromic-substrings) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Tishajain122004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tishajain122004/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tishajain122004/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Tishajain122004/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Tishajain122004/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tishajain122004/DSA/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tishajain122004/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tishajain122004/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Tishajain122004/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tishajain122004/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Tishajain122004/DSA/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tishajain122004/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/Tishajain122004/DSA/tree/master/0539-minimum-time-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tishajain122004/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tishajain122004/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tishajain122004/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Tishajain122004/DSA/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/Tishajain122004/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Tishajain122004/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Tishajain122004/DSA/tree/master/0942-di-string-match) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tishajain122004/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
