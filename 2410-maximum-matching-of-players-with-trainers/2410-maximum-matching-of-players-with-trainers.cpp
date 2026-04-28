@@ -9,11 +9,9 @@ public:
     while(i< players.size() && j<trainers.size()){
         if(players[i] <= trainers[j]){
             count++;
-            i++, j++; 
+            i++; 
         }
-        else{
-            j++;
-        }
+        j++;
     } 
     return count; 
     }
