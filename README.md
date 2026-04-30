@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Tishajain122004/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Tishajain122004/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Tishajain122004/DSA/tree/master/2465-number-of-distinct-averages) |
+| [2562-find-the-array-concatenation-value](https://github.com/Tishajain122004/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tishajain122004/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tishajain122004/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Tishajain122004/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Tishajain122004/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tishajain122004/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/Tishajain122004/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [2662-check-knight-tour-configuration](https://github.com/Tishajain122004/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tishajain122004/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tishajain122004/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Tishajain122004/DSA/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tishajain122004/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2460-apply-operations-to-an-array](https://github.com/Tishajain122004/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/Tishajain122004/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [2662-check-knight-tour-configuration](https://github.com/Tishajain122004/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [3379-transformed-array](https://github.com/Tishajain122004/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tishajain122004/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
