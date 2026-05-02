@@ -12,7 +12,7 @@ public:
             if(nums[i] != nums_copy[i]  &&  nums[j] != nums_copy[j]){
                 ans = j-i+1;
                 break;
-                i++, j--; 
+                //i++, j--; 
             }
             else if(nums[i] != nums_copy[i]  &&  nums[j] == nums_copy[j]){
                 j--;
