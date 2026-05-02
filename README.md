@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tishajain122004/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tishajain122004/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Tishajain122004/DSA/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tishajain122004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Tishajain122004/DSA/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Tishajain122004/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Tishajain122004/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tishajain122004/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Tishajain122004/DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Tishajain122004/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tishajain122004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Tishajain122004/DSA/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Tishajain122004/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tishajain122004/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Tishajain122004/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tishajain122004/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Tishajain122004/DSA/tree/master/0539-minimum-time-difference) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tishajain122004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Tishajain122004/DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/Tishajain122004/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Tishajain122004/DSA/tree/master/0905-sort-array-by-parity) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Tishajain122004/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Tishajain122004/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tishajain122004/DSA/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tishajain122004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0901-online-stock-span](https://github.com/Tishajain122004/DSA/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tishajain122004/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tishajain122004/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Tishajain122004/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Tishajain122004/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tishajain122004/DSA/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tishajain122004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0901-online-stock-span](https://github.com/Tishajain122004/DSA/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -436,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tishajain122004/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Tishajain122004/DSA/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Tishajain122004/DSA/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tishajain122004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Tishajain122004/DSA/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Tishajain122004/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Tishajain122004/DSA/tree/master/0881-boats-to-save-people) |
