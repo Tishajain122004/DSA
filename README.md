@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Tishajain122004/DSA/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tishajain122004/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Tishajain122004/DSA/tree/master/0942-di-string-match) |
+| [0969-pancake-sorting](https://github.com/Tishajain122004/DSA/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tishajain122004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Tishajain122004/DSA/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tishajain122004/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Tishajain122004/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tishajain122004/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Tishajain122004/DSA/tree/master/0942-di-string-match) |
+| [0969-pancake-sorting](https://github.com/Tishajain122004/DSA/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tishajain122004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Tishajain122004/DSA/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Tishajain122004/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Tishajain122004/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Tishajain122004/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tishajain122004/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0969-pancake-sorting](https://github.com/Tishajain122004/DSA/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tishajain122004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Tishajain122004/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tishajain122004/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Tishajain122004/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/Tishajain122004/DSA/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/Tishajain122004/DSA/tree/master/0942-di-string-match) |
+| [0969-pancake-sorting](https://github.com/Tishajain122004/DSA/tree/master/0969-pancake-sorting) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tishajain122004/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Tishajain122004/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Tishajain122004/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
