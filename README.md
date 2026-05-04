@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Tishajain122004/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Tishajain122004/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Tishajain122004/DSA/tree/master/2540-minimum-common-value) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Tishajain122004/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tishajain122004/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Tishajain122004/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tishajain122004/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Tishajain122004/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Tishajain122004/DSA/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tishajain122004/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Tishajain122004/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Tishajain122004/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Tishajain122004/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Array
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Tishajain122004/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [2662-check-knight-tour-configuration](https://github.com/Tishajain122004/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tishajain122004/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Tishajain122004/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tishajain122004/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tishajain122004/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Tishajain122004/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Tishajain122004/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tishajain122004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tishajain122004/DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Tishajain122004/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Tishajain122004/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Tishajain122004/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Dynamic Programming
@@ -497,4 +501,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tishajain122004/DSA/tree/master/0014-longest-common-prefix) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Tishajain122004/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
