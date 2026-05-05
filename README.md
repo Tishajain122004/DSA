@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Tishajain122004/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tishajain122004/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tishajain122004/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Tishajain122004/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Tishajain122004/DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tishajain122004/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tishajain122004/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Tishajain122004/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sliding Window
 |  |
 | ------- |
