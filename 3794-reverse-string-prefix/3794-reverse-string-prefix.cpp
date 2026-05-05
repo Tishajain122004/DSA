@@ -6,7 +6,7 @@ public:
         while(i<=n){
             if(i==k){
                 reverse(s.begin(), s.begin() +k);
-                return s; 
+                break; 
             }
             i++;
         }
