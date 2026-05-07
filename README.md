@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tishajain122004/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Tishajain122004/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Tishajain122004/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tishajain122004/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/Tishajain122004/DSA/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tishajain122004/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Tishajain122004/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Tishajain122004/DSA/tree/master/0942-di-string-match) |
 | [0969-pancake-sorting](https://github.com/Tishajain122004/DSA/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tishajain122004/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tishajain122004/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/Tishajain122004/DSA/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Tishajain122004/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tishajain122004/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tishajain122004/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Tishajain122004/DSA/tree/master/0792-binary-search) |
 | [0826-most-profit-assigning-work](https://github.com/Tishajain122004/DSA/tree/master/0826-most-profit-assigning-work) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tishajain122004/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tishajain122004/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tishajain122004/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Tishajain122004/DSA/tree/master/2540-minimum-common-value) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Tishajain122004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Tishajain122004/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tishajain122004/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tishajain122004/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tishajain122004/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Recursion
 |  |
