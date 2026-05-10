@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tishajain122004/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Tishajain122004/DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tishajain122004/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tishajain122004/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3794-reverse-string-prefix](https://github.com/Tishajain122004/DSA/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Tishajain122004/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Tishajain122004/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3379-transformed-array](https://github.com/Tishajain122004/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tishajain122004/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tishajain122004/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Tishajain122004/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Tishajain122004/DSA/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Tishajain122004/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tishajain122004/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Tishajain122004/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tishajain122004/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tishajain122004/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Tishajain122004/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tishajain122004/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tishajain122004/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tishajain122004/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Tishajain122004/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tishajain122004/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Tishajain122004/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Tishajain122004/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tishajain122004/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
 |  |
 | ------- |
