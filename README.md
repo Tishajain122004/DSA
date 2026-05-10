@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Tishajain122004/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tishajain122004/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Tishajain122004/DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Tishajain122004/DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tishajain122004/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tishajain122004/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3794-reverse-string-prefix](https://github.com/Tishajain122004/DSA/tree/master/3794-reverse-string-prefix) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tishajain122004/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Tishajain122004/DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Tishajain122004/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Tishajain122004/DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tishajain122004/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tishajain122004/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Tishajain122004/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Tishajain122004/DSA/tree/master/0204-count-primes) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Tishajain122004/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Tishajain122004/DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tishajain122004/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Tishajain122004/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tishajain122004/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Tishajain122004/DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tishajain122004/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
