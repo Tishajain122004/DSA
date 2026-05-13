@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Tishajain122004/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tishajain122004/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0826-most-profit-assigning-work](https://github.com/Tishajain122004/DSA/tree/master/0826-most-profit-assigning-work) |
+| [0832-flipping-an-image](https://github.com/Tishajain122004/DSA/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Tishajain122004/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Tishajain122004/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Tishajain122004/DSA/tree/master/0905-sort-array-by-parity) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Tishajain122004/DSA/tree/master/0792-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tishajain122004/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0826-most-profit-assigning-work](https://github.com/Tishajain122004/DSA/tree/master/0826-most-profit-assigning-work) |
+| [0832-flipping-an-image](https://github.com/Tishajain122004/DSA/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Tishajain122004/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0881-boats-to-save-people](https://github.com/Tishajain122004/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Tishajain122004/DSA/tree/master/0905-sort-array-by-parity) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Tishajain122004/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Tishajain122004/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tishajain122004/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/Tishajain122004/DSA/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Tishajain122004/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Tishajain122004/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2662-check-knight-tour-configuration](https://github.com/Tishajain122004/DSA/tree/master/2662-check-knight-tour-configuration) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tishajain122004/DSA/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/Tishajain122004/DSA/tree/master/0832-flipping-an-image) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tishajain122004/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2460-apply-operations-to-an-array](https://github.com/Tishajain122004/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Tishajain122004/DSA/tree/master/2562-find-the-array-concatenation-value) |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Tishajain122004/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tishajain122004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tishajain122004/DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/Tishajain122004/DSA/tree/master/0832-flipping-an-image) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Tishajain122004/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Tishajain122004/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Tishajain122004/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
