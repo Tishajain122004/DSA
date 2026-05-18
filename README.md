@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Tishajain122004/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Tishajain122004/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tishajain122004/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/Tishajain122004/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/Tishajain122004/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/Tishajain122004/DSA/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Tishajain122004/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tishajain122004/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Tishajain122004/DSA/tree/master/0792-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tishajain122004/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/Tishajain122004/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/Tishajain122004/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/Tishajain122004/DSA/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Tishajain122004/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Tishajain122004/DSA/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tishajain122004/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Tishajain122004/DSA/tree/master/0792-binary-search) |
+| [0825-friends-of-appropriate-ages](https://github.com/Tishajain122004/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/Tishajain122004/DSA/tree/master/0826-most-profit-assigning-work) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tishajain122004/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tishajain122004/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Tishajain122004/DSA/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tishajain122004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Tishajain122004/DSA/tree/master/0611-valid-triangle-number) |
+| [0825-friends-of-appropriate-ages](https://github.com/Tishajain122004/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/Tishajain122004/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/Tishajain122004/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Tishajain122004/DSA/tree/master/0905-sort-array-by-parity) |
